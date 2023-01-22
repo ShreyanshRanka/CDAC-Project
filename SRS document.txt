@@ -1,0 +1,34 @@
+Home Loan Service
+
+Document: System Requirement Specification Document
+
+=====================================
+
+Title
+
+System Requirement Specification for Home Loan Service
+=====================================
+
+Team
+
+Loan Officer, Operationl executive, Credit Manager,Admin
+======================================
+
+Objective (Purpose):
+
+The study was mainly condected to understand the concept of home loan schem and the eligibility criteria of customer 
+on their individual cibil score. The study is done to understand the documents involved in the home loan scheme and the 
+repayment methodology adopted by various banks.The innovative home loan schemes and the risk capturing mechanism adopted 
+by based on consecative three EMI payment failed. 	
+
+============================================
+
+Scope
+
+The main purpose to build this application program is to 
+reduce the human efforts by using software. The project is 
+totally built at administrative end and thus only the administrators 
+guaranteed will access this system. This software is a mainly related to customer individuals who are
+intrested in taking Home Loan from bank to fullfill their dreams.
+The process is filter by position to Offical position.
+
