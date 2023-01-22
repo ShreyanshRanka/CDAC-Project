@@ -77,3 +77,24 @@ their overall future funds requirement.
 COntinue to the regular loan period if three consecutive EMI missed by the customer, they will be added in defaulter list and 
 directly assessed by account head.
 
+=================================================================================================================
+
+NON FUNCTIONAL REQUIREMENT
+
+
+Security: Measures to protect sensitive personal and financial information from unauthorized access, theft, or damage. Multiple incorrect login should lead to temporary deactivation of account, which can lower risk of theft or misuse data.
+
+Scalability: The ability to handle increased demand for the service without significant performance degradation and able to reply to the user in minimum amount of time
+
+Availability: The service should be available for use at all times, with minimal downtime for maintenance or updates.
+
+Usability: The service should be easy for customers to use, with a clear and intuitive user interface. the user friendly UI will also lead to scalability of the product. The service should be accessible to customers with disabilities, in compliance with relevant laws and guidelines.
+
+Compliance: The service should comply with relevant laws, regulations, and industry standards.
+
+Performance: The service should be fast and responsive, with minimal delays or errors.
+
+Maintenance: The service should be easy to maintain and update, with clear documentation and procedures.
+
+Support: The service should have a dedicated support team available to assist customers with any issues or questions.
+
