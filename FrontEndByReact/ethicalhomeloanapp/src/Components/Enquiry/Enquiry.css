@@ -1,0 +1,20 @@
+.container{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 18%, rgba(128,20,26,1) 51%, rgba(0,212,255,1) 93%);
+    
+    
+}
+.card{
+    margin-left: 34%;
+    margin-top: 15%;
+    width: 70%;
+}
+.cont{
+
+    height: 100vh;
+   
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 18%, rgba(128,20,26,1) 51%, rgba(0,212,255,1) 93%);
+
+}

@@ -1,0 +1,50 @@
+.container{
+    background-color: azure;
+    margin-top: 2%;
+}
+.part1{
+     margin-top: 20px;
+     width: 280px;
+     text-align: center;
+     background: white;
+}
+.customerimg{
+    width:100%;
+    height: 200px;
+    padding: 15px;
+    
+}
+.salaryslip{
+    width:100px;
+    height:100px;
+}
+.part2{
+    padding: 10px;
+    margin-top: -15%;
+    margin-left: 300px;
+    width:600px;
+    border: 5px solid rgb(233, 226, 227);
+    background-color: azure;
+}
+h3{
+    text-align: center;
+}
+
+table{
+    font-size: 18px;
+}
+
+td{
+    padding: 20px;
+    width : 250px;
+}
+.addressInfo{
+    padding: 1px;
+}
+.loandocInfo{
+    background-color: rgb(255, 255, 255);
+}
+.custdetail{
+    font-style: white;
+}
+
